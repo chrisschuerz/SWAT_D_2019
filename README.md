@@ -2,8 +2,8 @@
 
 ## First steps
 ### Installation
-#### base *R*
-In order to execute *R* code you require base R installed on your computer. Please download the latest *R* version from the Comprehensive R Archive Network (CRAN) for your operating system: https://cran.r-project.org/. 
+#### base `R`
+In order to execute `R` code you require base R installed on your computer. Please download the latest *R* version from the Comprehensive R Archive Network (CRAN) for your operating system: https://cran.r-project.org/. 
 If you run linux on your computer I recommend an installation via the terminal. For Ubuntu bionic beaver (and maybe other recent debian distributions) this is a helpful link: https://linuxize.com/post/how-to-install-r-on-ubuntu-18-04/
 
 #### Rstudio
