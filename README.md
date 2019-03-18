@@ -42,7 +42,7 @@ To install an *R* package from CRAN you simply execute the function `install.pac
 
 ``` r
 # Install required packages from CRAN
-install.packages(c("devtools", "tidyverse", "lubridate", "lhs", "hydroGOF", "sensitivity", "fast", "sf", "here"))
+install.packages(c("devtools", "tidyverse", "lubridate", "lhs", "hydroGOF", "sensitivity", "fast", "sf", "here", "plotly"))
 
 # Install the pasta package from my github repository (I use it a lot and will explain why)
 devtools::install_github("chrisschuerz/pasta")
